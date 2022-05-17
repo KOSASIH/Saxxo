@@ -1,0 +1,2 @@
+- name: Deploy to Gist
+  uses: exuanbo/actions-deploy-gist@v1.1.2
